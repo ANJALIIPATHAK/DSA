@@ -5,8 +5,6 @@ class Solution:
             numMap[num] = 1 + numMap.get(num, 0)
 
         freqCount = [[] for i in range(0, len(nums) + 1)]
-        print(freqCount)
-
         for num in numMap:
             freqCount[numMap[num]].append(num)
 
