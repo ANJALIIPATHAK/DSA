@@ -71,4 +71,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ANJALIIPATHAK/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ANJALIIPATHAK/DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
