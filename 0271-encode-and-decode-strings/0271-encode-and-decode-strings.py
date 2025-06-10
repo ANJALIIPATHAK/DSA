@@ -5,7 +5,6 @@ class Codec:
         encodedStr = ""
         for word in strs:
             encodedStr = encodedStr + str(len(word)) + "#" + word
-        print(encodedStr)
         return encodedStr
 
 
