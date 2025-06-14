@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ANJALIIPATHAK/DSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/ANJALIIPATHAK/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ANJALIIPATHAK/DSA/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/ANJALIIPATHAK/DSA/tree/master/0271-encode-and-decode-strings) |
 ## Divide and Conquer
@@ -76,4 +77,8 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ANJALIIPATHAK/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ANJALIIPATHAK/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
