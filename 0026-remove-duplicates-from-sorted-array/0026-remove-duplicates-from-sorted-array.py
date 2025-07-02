@@ -1,14 +1,14 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        numMap = {}
-        for num in nums:
-            numMap[num] = 1 + numMap.get(num, 0)
+        numSet = set()
+        nextIndex = 0
+        for i in range(0, len(nums)):
+            if(nums[i] in numSet):
+                continue
+            else:
+                numSet.add(nums[i])
+                nums[nextIndex] = nums[i]
+                nextIndex += 1
 
-        for num, key in numMap.items():
-            while(key != 1):
-                nums.remove(num)
-                key -= 1
-        
-        return len(nums)
-
+        return len(numSet)
 
