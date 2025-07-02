@@ -12,6 +12,7 @@
 | [0238-product-of-array-except-self](https://github.com/ANJALIIPATHAK/DSA/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/ANJALIIPATHAK/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ANJALIIPATHAK/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
