@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/ANJALIIPATHAK/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ANJALIIPATHAK/DSA/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/ANJALIIPATHAK/DSA/tree/master/0271-encode-and-decode-strings) |
+| [0283-move-zeroes](https://github.com/ANJALIIPATHAK/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ANJALIIPATHAK/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -88,6 +89,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ANJALIIPATHAK/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ANJALIIPATHAK/DSA/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
