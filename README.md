@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ANJALIIPATHAK/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ANJALIIPATHAK/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/ANJALIIPATHAK/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/ANJALIIPATHAK/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -25,6 +26,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ANJALIIPATHAK/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ANJALIIPATHAK/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ANJALIIPATHAK/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -32,6 +34,7 @@
 | [0049-group-anagrams](https://github.com/ANJALIIPATHAK/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ANJALIIPATHAK/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ANJALIIPATHAK/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -82,6 +85,7 @@
 | [0007-reverse-integer](https://github.com/ANJALIIPATHAK/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -102,4 +106,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
