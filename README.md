@@ -16,6 +16,7 @@
 | [0271-encode-and-decode-strings](https://github.com/ANJALIIPATHAK/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/ANJALIIPATHAK/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/ANJALIIPATHAK/DSA/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ANJALIIPATHAK/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
