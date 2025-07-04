@@ -1,6 +1,6 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        numSet = set(nums)
-        for i in range(0, len(nums)+1):
-            if(i not in numSet):
-                return i
+        n = len(nums)
+        sumExpected = (n * (n + 1)) // 2
+        sumActual = sum(nums)
+        return (sumExpected - sumActual)
