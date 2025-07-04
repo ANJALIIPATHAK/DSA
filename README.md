@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/ANJALIIPATHAK/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ANJALIIPATHAK/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ANJALIIPATHAK/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ANJALIIPATHAK/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ANJALIIPATHAK/DSA/tree/master/0238-product-of-array-except-self) |
@@ -114,5 +115,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
