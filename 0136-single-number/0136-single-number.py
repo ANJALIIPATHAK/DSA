@@ -1,12 +1,8 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        nums = sorted(nums)
-        i = 0
-        while(i < len(nums)):
-            if(i == len(nums)-1):
-                return nums[i]
-            if(nums[i] == nums[i+1]):
-                i += 2
-            else:
-                return nums[i]
-            
+        numMap = {}
+        for num in nums:
+            numMap[num] = 1 + numMap.get(num, 0)
+        for num, freq in numMap.items():
+            if(freq == 1):
+                return num
