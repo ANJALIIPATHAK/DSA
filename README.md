@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/ANJALIIPATHAK/DSA/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/ANJALIIPATHAK/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ANJALIIPATHAK/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ANJALIIPATHAK/DSA/tree/master/0238-product-of-array-except-self) |
@@ -27,6 +28,7 @@
 | [0036-valid-sudoku](https://github.com/ANJALIIPATHAK/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ANJALIIPATHAK/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ANJALIIPATHAK/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ANJALIIPATHAK/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ANJALIIPATHAK/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
@@ -36,6 +38,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/ANJALIIPATHAK/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ANJALIIPATHAK/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ANJALIIPATHAK/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ANJALIIPATHAK/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
@@ -50,6 +53,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -62,6 +66,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
