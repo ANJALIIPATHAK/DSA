@@ -1,19 +1,18 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        minCPSoFar = [0]*len(prices)
-        minCP = prices[0]
-        for i in range(0, len(prices)):
-            if(prices[i] < minCP):
-                minCP = prices[i]
-            minCPSoFar[i] = minCP
-        
+        buy = 0
+        sell = 1
         maxProf = 0
-        for i in range(0, len(prices)):
-            prof = prices[i] - minCPSoFar[i]
-            if(prof > maxProf):
-                maxProf = prof
 
+        while(sell < len(prices)):
+            if(prices[sell] > prices[buy]):
+                prof = prices[sell] - prices[buy]
+                maxProf = max(maxProf, prof)
+            else:
+                buy = sell
+            sell += 1
         return maxProf
+
         
 
         
