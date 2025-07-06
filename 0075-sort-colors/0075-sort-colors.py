@@ -3,33 +3,21 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        def merge(nums, low, mid, high):
-            left = low
-            right = mid + 1
-            temp = []
-            while(left <= mid and right <= high):
-                if(nums[left] <= nums[right]):
-                    temp.append(nums[left])
-                    left += 1
-                else:
-                    temp.append(nums[right])
-                    right += 1
-            while(left <= mid):
-                temp.append(nums[left])
-                left += 1
-            while(right <= high):
-                temp.append(nums[right])
-                right += 1
-            for i in range(low, high + 1):
-                nums[i] = temp[i-low]
-        def helper(low, high):
-            if(low >= high):
-                return
-            mid = (low + high) // 2
-            helper(low, mid)
-            helper(mid + 1, high)
-            merge(nums, low, mid, high)
-        
-        helper(0, len(nums)-1)
+        redCount = 0
+        whiteCount = 0
+        blueCount = 0
+        for num in nums:
+            if(num == 0):
+                redCount += 1
+            elif(num == 1):
+                whiteCount += 1
+            else:
+                blueCount += 1
+        for i in range(0, redCount):
+            nums[i] = 0
+        for i in range(redCount, redCount + whiteCount):
+            nums[i] = 1
+        for i in range(redCount + whiteCount, redCount + whiteCount + blueCount):
+            nums[i] = 2
 
         
