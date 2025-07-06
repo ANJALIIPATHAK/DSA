@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ANJALIIPATHAK/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ANJALIIPATHAK/DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ANJALIIPATHAK/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ANJALIIPATHAK/DSA/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/ANJALIIPATHAK/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0136-single-number) |
@@ -53,6 +54,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ANJALIIPATHAK/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -107,6 +109,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ANJALIIPATHAK/DSA/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
