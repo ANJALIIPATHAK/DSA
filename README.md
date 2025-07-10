@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ANJALIIPATHAK/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/ANJALIIPATHAK/DSA/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/ANJALIIPATHAK/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ANJALIIPATHAK/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ANJALIIPATHAK/DSA/tree/master/0053-maximum-subarray) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/ANJALIIPATHAK/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ANJALIIPATHAK/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ANJALIIPATHAK/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0189-rotate-array) |
