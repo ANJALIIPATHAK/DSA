@@ -5,7 +5,7 @@ class Solution:
         """
 
         # Transposing the matrix to convert rows into columns and column into rows:
-        for row in range(0, len(matrix)):
+        for row in range(0, len(matrix)-1):
             for col in range(row + 1, len(matrix[0])):
                 matrix[row][col], matrix[col][row] = matrix[col][row], matrix[row][col]
 
