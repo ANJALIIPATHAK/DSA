@@ -4,13 +4,12 @@ class Solution:
         Do not return anything, modify matrix in-place instead.
         """
 
-        newMatrix = [[0] * len(matrix[0]) for i in range(0, len(matrix))]
-        
+        # Transposing the matrix to convert rows into columns and column into rows:
         for row in range(0, len(matrix)):
-            for col in range(0, len(matrix[0])):
-                newMatrix[col][len(matrix)-1 - row] = matrix[row][col]
+            for col in range(row + 1, len(matrix[0])):
+                matrix[row][col], matrix[col][row] = matrix[col][row], matrix[row][col]
 
-        for row in range(0, len(matrix)):
-            for col in range(0, len(matrix[0])):
-                matrix[row][col] = newMatrix[row][col]
+        # Reversing each row
+        for row in matrix:
+            row.reverse()
         
