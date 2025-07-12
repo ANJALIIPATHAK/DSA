@@ -4,13 +4,13 @@ class Solution:
         Do not return anything, modify matrix in-place instead.
         """
 
-        newMatrix = [[] for i in range(0, len(matrix))]
-        for row in range(len(matrix)-1, -1, -1):
-            newRow = 0
+        newMatrix = [[0] * len(matrix[0]) for i in range(0, len(matrix))]
+        
+        for row in range(0, len(matrix)):
             for col in range(0, len(matrix[0])):
-                newMatrix[newRow].append(matrix[row][col])
-                newRow += 1
+                newMatrix[col][len(matrix)-1 - row] = matrix[row][col]
 
         for row in range(0, len(matrix)):
             for col in range(0, len(matrix[0])):
                 matrix[row][col] = newMatrix[row][col]
+        
