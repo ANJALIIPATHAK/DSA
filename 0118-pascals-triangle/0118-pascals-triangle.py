@@ -1,11 +1,17 @@
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
-        pascalTriangle = []
-        for i in range(0, numRows):
-            pascalTriangle.append([1]*(i + 1))
-
-        for i in range(2, len(pascalTriangle)):
-            for j in range(1, len(pascalTriangle[i])-1):
-                pascalTriangle[i][j] = pascalTriangle[i - 1][j - 1] + pascalTriangle[i - 1][j]
+        def generateRow(row):
+            ansRow = [1]
+            ans = 1
+            for col in range(1, row):
+                ans = ans * (row - col)
+                ans = ans // col
+                ansRow.append(ans)
+            return ansRow
         
+        pascalTriangle = []
+        for row in range(1, numRows + 1):
+            tempRow = generateRow(row)
+            pascalTriangle.append(tempRow)
+
         return pascalTriangle
