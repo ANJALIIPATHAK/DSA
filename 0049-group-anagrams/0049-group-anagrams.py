@@ -2,9 +2,9 @@ class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         strMap = defaultdict(list)
 
-        for word in strs:
-            sortedWord = "".join(sorted(word))
-            strMap[sortedWord].append(word)
+        for string in strs:
+            sortedString = "".join(sorted(string))
+            strMap[sortedString].append(string)
 
         return list(strMap.values())
         
