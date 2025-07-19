@@ -1,8 +1,10 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        nums = sorted(nums)
+        numMap = {}
 
-        for i in range(0, len(nums)-1):
-            if(nums[i] == nums[i+1]):
+        for num in nums:
+            if(num in numMap):
                 return True
+            else:
+                numMap[num] = 1
         return False
