@@ -1,19 +1,23 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        countMap = {}
-        for num in nums:
-            countMap[num] = 1 + countMap.get(num, 0)
-        
-        countArr = []
-        for num, count in countMap.items():
-            countArr.append([count, num])
+        freqMap = {}
+        countArr = [[] for i in range(0, len(nums)+1)]
 
-        countArr = sorted(countArr)
+        for num in nums:
+            freqMap[num] = 1 + freqMap.get(num, 0)
+
+        for num, freq in freqMap.items():
+            countArr[freq].append(num)
 
         res = []
-        for i in range(k, 0, -1):
-            res.append(countArr.pop()[1])
+        for i in range(len(countArr) - 1, 0, -1):
+            for num in countArr[i]:
+                res.append(num)
+                if(len(res) == k):
+                    return res
 
-        return res
+
+
+
 
 
