@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ANJALIIPATHAK/DSA/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/ANJALIIPATHAK/DSA/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/ANJALIIPATHAK/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ANJALIIPATHAK/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ANJALIIPATHAK/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ANJALIIPATHAK/DSA/tree/master/0053-maximum-subarray) |
@@ -135,6 +136,7 @@
 | [0018-4sum](https://github.com/ANJALIIPATHAK/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ANJALIIPATHAK/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ANJALIIPATHAK/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ANJALIIPATHAK/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ANJALIIPATHAK/DSA/tree/master/0125-valid-palindrome) |
@@ -145,6 +147,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ANJALIIPATHAK/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ANJALIIPATHAK/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ANJALIIPATHAK/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANJALIIPATHAK/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -176,4 +179,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ANJALIIPATHAK/DSA/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ANJALIIPATHAK/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ANJALIIPATHAK/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
