@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ANJALIIPATHAK/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ANJALIIPATHAK/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ANJALIIPATHAK/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ANJALIIPATHAK/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ANJALIIPATHAK/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -71,6 +72,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ANJALIIPATHAK/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ANJALIIPATHAK/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ANJALIIPATHAK/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ANJALIIPATHAK/DSA/tree/master/0242-valid-anagram) |
@@ -187,4 +189,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ANJALIIPATHAK/DSA/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ANJALIIPATHAK/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
