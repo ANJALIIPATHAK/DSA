@@ -6,7 +6,7 @@ class Solution:
         numSet = set(nums)
 
         maxCount = 1
-        for num in nums:
+        for num in numSet:
             count = 1
             if((num-1) not in numSet):
                 while((num + 1) in numSet):
