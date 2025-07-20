@@ -1,7 +1,13 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        while("()" in s or "{}" in s or "[]" in s):
-            s = s.replace("()", "")
-            s = s.replace("{}", "")
-            s = s.replace("[]", "")
-        return not s
+        charMap = {")" : "(", "}" : "{", "]" : "["}
+        stack = []
+        for char in s:
+            if(char in charMap):
+                if(stack and stack[-1] == charMap[char]):
+                    stack.pop()
+                else:
+                    return False
+            else:
+                stack.append(char)
+        return True if not stack else False
