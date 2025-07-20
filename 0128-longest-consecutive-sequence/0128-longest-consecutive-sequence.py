@@ -12,5 +12,5 @@ class Solution:
                 while((num + 1) in numSet):
                     count +=  1
                     num = num + 1
-            maxCount = max(maxCount, count)
+                maxCount = max(maxCount, count)
         return maxCount
