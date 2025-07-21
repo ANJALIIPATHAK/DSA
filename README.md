@@ -18,6 +18,7 @@
 | [0054-spiral-matrix](https://github.com/ANJALIIPATHAK/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ANJALIIPATHAK/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ANJALIIPATHAK/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ANJALIIPATHAK/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ANJALIIPATHAK/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ANJALIIPATHAK/DSA/tree/master/0118-pascals-triangle) |
@@ -131,6 +132,7 @@
 | [0048-rotate-image](https://github.com/ANJALIIPATHAK/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ANJALIIPATHAK/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ANJALIIPATHAK/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ANJALIIPATHAK/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Union Find
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ANJALIIPATHAK/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANJALIIPATHAK/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/ANJALIIPATHAK/DSA/tree/master/0792-binary-search) |
