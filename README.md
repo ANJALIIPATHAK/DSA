@@ -38,6 +38,7 @@
 | [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/ANJALIIPATHAK/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/ANJALIIPATHAK/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/ANJALIIPATHAK/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ANJALIIPATHAK/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -176,6 +177,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANJALIIPATHAK/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ANJALIIPATHAK/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0567-permutation-in-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ANJALIIPATHAK/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -208,6 +210,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANJALIIPATHAK/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/ANJALIIPATHAK/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ANJALIIPATHAK/DSA/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/1023-time-based-key-value-store) |
@@ -216,6 +219,7 @@
 | ------- |
 | [0136-single-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
