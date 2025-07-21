@@ -187,6 +187,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ANJALIIPATHAK/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -249,4 +250,5 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ANJALIIPATHAK/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ANJALIIPATHAK/DSA/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
