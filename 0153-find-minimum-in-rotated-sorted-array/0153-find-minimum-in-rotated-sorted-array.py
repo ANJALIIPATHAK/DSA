@@ -7,7 +7,7 @@ class Solution:
         while(left <= right):
             if(nums[left] < nums[right]):
                 res = min(res, nums[left])
-                break
+                return res
 
             mid = (left + right) // 2
             res = min(res, nums[mid])
