@@ -184,6 +184,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ANJALIIPATHAK/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -241,4 +242,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ANJALIIPATHAK/DSA/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ANJALIIPATHAK/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
