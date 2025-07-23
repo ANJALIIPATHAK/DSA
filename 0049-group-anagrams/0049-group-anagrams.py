@@ -3,9 +3,9 @@ class Solution:
         strMap = defaultdict(list)
 
         for string in strs:
-            arr = [0]*26
+            charArr = [0]*26
             for char in string:
-                arr[ord(char) - ord("a")] += 1
-            strMap[tuple(arr)].append(string)
-
+                charArr[ord(char) - ord("a")] += 1
+            strMap[tuple(charArr)].append(string)
+        
         return list(strMap.values())
