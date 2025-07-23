@@ -2,6 +2,7 @@ class Solution:
     def isValid(self, s: str) -> bool:
         charMap = {")" : "(", "}" : "{", "]" : "["}
         stack = []
+
         for char in s:
             if(char in charMap):
                 if(stack and stack[-1] == charMap[char]):
