@@ -45,6 +45,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/ANJALIIPATHAK/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ANJALIIPATHAK/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/ANJALIIPATHAK/DSA/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/ANJALIIPATHAK/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ANJALIIPATHAK/DSA/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0883-car-fleet) |
@@ -163,11 +164,13 @@
 | [0073-set-matrix-zeroes](https://github.com/ANJALIIPATHAK/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ANJALIIPATHAK/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ANJALIIPATHAK/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ANJALIIPATHAK/DSA/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ANJALIIPATHAK/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ANJALIIPATHAK/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ANJALIIPATHAK/DSA/tree/master/0695-max-area-of-island) |
 ## Math
 |  |
 | ------- |
@@ -323,6 +326,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/ANJALIIPATHAK/DSA/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -348,6 +352,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ANJALIIPATHAK/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ANJALIIPATHAK/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ANJALIIPATHAK/DSA/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
