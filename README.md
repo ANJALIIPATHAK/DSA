@@ -33,6 +33,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANJALIIPATHAK/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ANJALIIPATHAK/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ANJALIIPATHAK/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0229-majority-element-ii) |
@@ -161,10 +162,12 @@
 | [0054-spiral-matrix](https://github.com/ANJALIIPATHAK/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ANJALIIPATHAK/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ANJALIIPATHAK/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/ANJALIIPATHAK/DSA/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ANJALIIPATHAK/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ANJALIIPATHAK/DSA/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
@@ -315,6 +318,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ANJALIIPATHAK/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ANJALIIPATHAK/DSA/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANJALIIPATHAK/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -343,6 +347,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ANJALIIPATHAK/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ANJALIIPATHAK/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ANJALIIPATHAK/DSA/tree/master/0200-number-of-islands) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
