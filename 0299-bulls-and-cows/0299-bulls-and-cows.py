@@ -15,13 +15,13 @@ class Solution:
             else:
                 i += 1
 
-        sMap = {}
-        for num in s:
-            sMap[num] = 1 + sMap.get(num, 0)
-
+        gMap = {}
         for num in g:
-            if num in sMap and sMap[num] > 0:
+            gMap[num] = 1 + gMap.get(num, 0)
+
+        for num in s:
+            if num in gMap and gMap[num] > 0:
                 cows += 1
-                sMap[num] -= 1
+                gMap[num] -= 1
         
         return "{}A{}B".format(bulls, cows)
