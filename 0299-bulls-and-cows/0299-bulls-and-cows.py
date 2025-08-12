@@ -6,17 +6,14 @@ class Solution:
         g = list(guess)
 
         i = 0
-        j = 0
 
-        while(j < len(s)):
-            if s[j] == g[j]:
+        while(i < len(s)):
+            if s[i] == g[i]:
                 bulls += 1
-                s.pop(j)
-                g.pop(j)
+                s.pop(i)
+                g.pop(i)
             else:
-                j += 1
-            i += 1
-            print(bulls)
+                i += 1
 
         sMap = {}
         for num in s:
