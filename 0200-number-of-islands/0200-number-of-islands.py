@@ -9,17 +9,15 @@ class Solution:
         def bfs(row, col):
             q = deque()
             q.append((row, col))
-            visited.add((row,col))
-            directions = [[0, 1], [0, -1], [1, 0], [-1, 0]]
+            visited.add((row, col))
+            directions = [[0,1], [0, -1], [1, 0], [-1, 0]]
             while(q):
                 row, col = q.popleft()
                 for dr, dc in directions:
+                    row, col 
                     r = row + dr
                     c = col + dc
-                    if(r in range(ROWS) and
-                    c in range(COLS) and 
-                    grid[r][c] == "1" and 
-                    (r, c) not in visited):
+                    if(r in range(ROWS) and c in range(COLS) and grid[r][c] == "1" and (r, c) not in visited):
                         q.append((r, c))
                         visited.add((r,c))
 
@@ -31,6 +29,4 @@ class Solution:
                 if grid[row][col] == "1" and (row, col) not in visited:
                     bfs(row, col)
                     numIslands += 1
-
         return numIslands
-                
