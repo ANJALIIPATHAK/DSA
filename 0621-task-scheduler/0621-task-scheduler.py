@@ -3,11 +3,12 @@ class Solution:
         taskMap = {}
         for task in tasks:
             taskMap[task] = 1 + taskMap.get(task, 0)
+
         maxHeap = [-cnt for cnt in taskMap.values()]
         heapq.heapify(maxHeap)
 
-        time = 0
         q = deque()
+        time = 0
 
         while maxHeap or q:
             time += 1
@@ -15,6 +16,6 @@ class Solution:
                 cnt = 1 + heapq.heappop(maxHeap)
                 if cnt:
                     q.append([cnt, time + n])
-            if(q and q[0][1] == time):
+            if q and q[0][1] == time:
                 heapq.heappush(maxHeap, q.popleft()[0])
         return time
