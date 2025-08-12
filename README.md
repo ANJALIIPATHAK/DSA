@@ -45,6 +45,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/ANJALIIPATHAK/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ANJALIIPATHAK/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/ANJALIIPATHAK/DSA/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/ANJALIIPATHAK/DSA/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/ANJALIIPATHAK/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ANJALIIPATHAK/DSA/tree/master/0792-binary-search) |
@@ -78,6 +79,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ANJALIIPATHAK/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/ANJALIIPATHAK/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/ANJALIIPATHAK/DSA/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -95,6 +97,7 @@
 | [0242-valid-anagram](https://github.com/ANJALIIPATHAK/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ANJALIIPATHAK/DSA/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## String
@@ -126,6 +129,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ANJALIIPATHAK/DSA/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ANJALIIPATHAK/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ANJALIIPATHAK/DSA/tree/master/1127-last-stone-weight) |
@@ -139,6 +143,7 @@
 | [0169-majority-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ANJALIIPATHAK/DSA/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -256,6 +261,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ANJALIIPATHAK/DSA/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/ANJALIIPATHAK/DSA/tree/master/0621-task-scheduler) |
 ## Stack
 |  |
 | ------- |
