@@ -4,6 +4,6 @@ class Solution:
         heapq.heapify(nums)
         res = []
         while(k > 0):
-            res.append(-(heapq.heappop(nums)))
+            res = (-(heapq.heappop(nums)))
             k -= 1
-        return res[-1]
+        return res
