@@ -1,6 +1,6 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
-        
+
         stack = []
         res = []
 
@@ -18,6 +18,6 @@ class Solution:
                 stack.append(")")
                 backtrack(openN, closeN + 1)
                 stack.pop()
-        
+
         backtrack(0, 0)
         return res
