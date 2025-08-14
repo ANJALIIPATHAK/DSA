@@ -17,9 +17,10 @@ class Solution:
             elif(char == "/"):
                 a = stack.pop()
                 b = stack.pop()
-                res = int(b / a)
+                res = int(b/a)
                 stack.append(res)
             else:
                 stack.append(int(char))
+                
         return stack[0]
             
