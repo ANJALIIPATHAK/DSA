@@ -1,11 +1,14 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        stringMap = defaultdict(list)
+        strMap = defaultdict(list)
 
-        for string in strs:
-            charArr = [0] * 26
-            for char in string:
-                charArr[(ord(char)) - (ord("a"))] += 1
-            stringMap[tuple(charArr)].append(string)
+        for word in strs:
+            charArr = [0]*26
+            for char in word:
+                charArr[ord(char) - ord("a")] += 1
+            strMap[tuple(charArr)].append(word)
+        
+        return list(strMap.values())
+        
 
-        return list(stringMap.values())
+        
