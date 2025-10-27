@@ -11,7 +11,7 @@ class Solution:
             countArr[count].append(num)
 
         res = []
-        for i in range(len(countArr) - 1, 0, -1):
+        for i in range(len(countArr)-1, 0, -1):
             for num in countArr[i]:
                 res.append(num)
                 if(len(res) == k):
