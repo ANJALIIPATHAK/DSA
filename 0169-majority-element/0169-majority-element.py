@@ -4,6 +4,6 @@ class Solution:
         n = len(nums)
         for num in nums:
             numMap[num] = 1 + numMap.get(num, 0)
-            if numMap.get(num, 0) > n/2:
+            if numMap[num] > n/2:
                 return num
 
