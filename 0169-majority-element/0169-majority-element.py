@@ -1,9 +1,14 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        numMap = {}
-        n = len(nums)
+        count = 0
+        res = 0
+
         for num in nums:
-            numMap[num] = 1 + numMap.get(num, 0)
-            if numMap[num] > n/2:
-                return num
+            if count == 0:
+                res = num
+            if res ==  num:
+                count += 1
+            else:
+                count -= 1
+        return res
 
