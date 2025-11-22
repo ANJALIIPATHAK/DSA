@@ -54,6 +54,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ANJALIIPATHAK/DSA/tree/master/1127-last-stone-weight) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ANJALIIPATHAK/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ANJALIIPATHAK/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -260,6 +261,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ANJALIIPATHAK/DSA/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ANJALIIPATHAK/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
