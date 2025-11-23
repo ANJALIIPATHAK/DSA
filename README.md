@@ -50,6 +50,7 @@
 | [0621-task-scheduler](https://github.com/ANJALIIPATHAK/DSA/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/ANJALIIPATHAK/DSA/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/ANJALIIPATHAK/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ANJALIIPATHAK/DSA/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/ANJALIIPATHAK/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ANJALIIPATHAK/DSA/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0883-car-fleet) |
@@ -87,6 +88,7 @@
 | [0567-permutation-in-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ANJALIIPATHAK/DSA/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/ANJALIIPATHAK/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ANJALIIPATHAK/DSA/tree/master/0706-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -167,6 +169,7 @@
 | [0155-min-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/ANJALIIPATHAK/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0705-design-hashset](https://github.com/ANJALIIPATHAK/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ANJALIIPATHAK/DSA/tree/master/0706-design-hashmap) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ANJALIIPATHAK/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/1023-time-based-key-value-store) |
 ## Prefix Sum
@@ -316,6 +319,7 @@
 | [0146-lru-cache](https://github.com/ANJALIIPATHAK/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/ANJALIIPATHAK/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ANJALIIPATHAK/DSA/tree/master/0706-design-hashmap) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -391,6 +395,7 @@
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/ANJALIIPATHAK/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ANJALIIPATHAK/DSA/tree/master/0706-design-hashmap) |
 ## Binary Search Tree
 |  |
 | ------- |
