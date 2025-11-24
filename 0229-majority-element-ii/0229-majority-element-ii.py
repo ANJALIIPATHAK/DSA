@@ -16,7 +16,7 @@ class Solution:
 
         res = []
         for num in numMap:
-            if nums.count(num) > len(nums)/3:
+            if nums.count(num) > len(nums)//3:
                 res.append(num)
         return res
 
