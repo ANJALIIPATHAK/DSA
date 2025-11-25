@@ -9,10 +9,9 @@ class NumArray:
             self.prefixArr.append(prefix)
 
     def sumRange(self, left: int, right: int) -> int:
-        if left == 0:
-            return self.prefixArr[right]
-        return self.prefixArr[right] - self.prefixArr[left - 1]
-
+        rightSum = self.prefixArr[right]
+        leftSum = self.prefixArr[left - 1] if left > 0 else 0
+        return rightSum - leftSum
 
 # Your NumArray object will be instantiated and called as such:
 # obj = NumArray(nums)
