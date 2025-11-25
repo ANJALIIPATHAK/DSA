@@ -1,13 +1,17 @@
 class NumArray:
 
     def __init__(self, nums: List[int]):
-        self.nums = nums
+        self.prefixArr = []
+        prefix = 0
+
+        for num in nums:
+            prefix += num
+            self.prefixArr.append(prefix)
 
     def sumRange(self, left: int, right: int) -> int:
-        sum = 0
-        for i in range(left, right + 1):
-            sum += self.nums[i]
-        return sum
+        if left == 0:
+            return self.prefixArr[right]
+        return self.prefixArr[right] - self.prefixArr[left - 1]
 
 
 # Your NumArray object will be instantiated and called as such:
