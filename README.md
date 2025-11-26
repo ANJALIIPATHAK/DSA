@@ -46,6 +46,7 @@
 | [0283-move-zeroes](https://github.com/ANJALIIPATHAK/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/ANJALIIPATHAK/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ANJALIIPATHAK/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/ANJALIIPATHAK/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ANJALIIPATHAK/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -176,6 +177,7 @@
 | [0155-min-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/ANJALIIPATHAK/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0303-range-sum-query-immutable](https://github.com/ANJALIIPATHAK/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ANJALIIPATHAK/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/ANJALIIPATHAK/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ANJALIIPATHAK/DSA/tree/master/0706-design-hashmap) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ANJALIIPATHAK/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -185,6 +187,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ANJALIIPATHAK/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ANJALIIPATHAK/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ANJALIIPATHAK/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ANJALIIPATHAK/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
@@ -195,6 +198,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ANJALIIPATHAK/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ANJALIIPATHAK/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ANJALIIPATHAK/DSA/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ANJALIIPATHAK/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0695-max-area-of-island](https://github.com/ANJALIIPATHAK/DSA/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
