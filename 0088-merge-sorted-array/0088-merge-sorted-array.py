@@ -3,21 +3,17 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        res = []
-        ptr1 = 0
-        ptr2 = 0
-        while(ptr1 < m and ptr2 < n):
-            if(nums1[ptr1] < nums2[ptr2]):
-                res.append(nums1[ptr1])
-                ptr1 += 1
-            else:
-                res.append(nums2[ptr2])
-                ptr2 += 1
-        if(ptr1 < m):
-            res += (nums1[ptr1 : m])
-        if(ptr2 < n):
-            res += (nums2[ptr2 : n])
+        last = m + n - 1
 
-        for i in range(0, len(res)):
-            nums1[i] = res[i]
-        
+        while(m > 0 and n > 0):
+            if(nums1[m - 1] > nums2[n - 1]):
+                nums1[last] = nums1[m - 1]
+                m -= 1
+            else:
+                nums1[last] = nums2[n - 1]
+                n -= 1
+            last -= 1
+        while(n > 0):
+            nums1[last] = nums2[n - 1]
+            n -= 1
+            last -= 1
