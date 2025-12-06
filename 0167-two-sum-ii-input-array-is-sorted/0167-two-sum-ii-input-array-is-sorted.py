@@ -5,12 +5,9 @@ class Solution:
 
         while(left < right):
             sum = numbers[left] + numbers[right]
-            if(sum == target):
+            if (sum == target):
                 return [left + 1, right + 1]
             elif(sum > target):
                 right -= 1
-            else:
+            elif(sum < target):
                 left += 1
-            
-
-    
