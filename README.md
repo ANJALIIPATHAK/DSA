@@ -56,6 +56,7 @@
 | [0706-design-hashmap](https://github.com/ANJALIIPATHAK/DSA/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/ANJALIIPATHAK/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ANJALIIPATHAK/DSA/tree/master/0792-binary-search) |
+| [0881-boats-to-save-people](https://github.com/ANJALIIPATHAK/DSA/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/ANJALIIPATHAK/DSA/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0912-sort-an-array) |
@@ -111,6 +112,7 @@
 | [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ANJALIIPATHAK/DSA/tree/master/0621-task-scheduler) |
+| [0881-boats-to-save-people](https://github.com/ANJALIIPATHAK/DSA/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0883-car-fleet) |
 | [0912-sort-an-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -244,6 +246,7 @@
 | [0344-reverse-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/ANJALIIPATHAK/DSA/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/ANJALIIPATHAK/DSA/tree/master/1768-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ANJALIIPATHAK/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -301,6 +304,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/ANJALIIPATHAK/DSA/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/ANJALIIPATHAK/DSA/tree/master/0881-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
