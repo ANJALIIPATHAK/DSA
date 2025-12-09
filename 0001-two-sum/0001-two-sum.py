@@ -7,5 +7,5 @@ class Solution:
 
         for i in range(0, len(nums)):
             diff = target - nums[i]
-            if(diff in numMap and i != numMap[diff]):
+            if diff in numMap and numMap[diff] != i:
                 return [i, numMap[diff]]
