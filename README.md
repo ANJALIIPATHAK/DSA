@@ -40,6 +40,7 @@
 | [0200-number-of-islands](https://github.com/ANJALIIPATHAK/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ANJALIIPATHAK/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ANJALIIPATHAK/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
@@ -85,6 +86,7 @@
 | [0146-lru-cache](https://github.com/ANJALIIPATHAK/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ANJALIIPATHAK/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ANJALIIPATHAK/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
@@ -329,6 +331,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ANJALIIPATHAK/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ANJALIIPATHAK/DSA/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ANJALIIPATHAK/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0567-permutation-in-string) |
 ## Backtracking
