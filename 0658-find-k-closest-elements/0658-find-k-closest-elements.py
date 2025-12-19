@@ -16,7 +16,7 @@ class Solution:
         while(right - left - 1 < k):
             if left < 0:
                 right += 1
-            elif right == len(arr):
+            elif right >= len(arr):
                 left -= 1
             elif abs(arr[left] - x) <= abs(arr[right] - x):
                 left -= 1
