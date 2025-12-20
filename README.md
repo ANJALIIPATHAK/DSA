@@ -56,6 +56,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ANJALIIPATHAK/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ANJALIIPATHAK/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/ANJALIIPATHAK/DSA/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/ANJALIIPATHAK/DSA/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/ANJALIIPATHAK/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ANJALIIPATHAK/DSA/tree/master/0706-design-hashmap) |
@@ -308,6 +309,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ANJALIIPATHAK/DSA/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/ANJALIIPATHAK/DSA/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ANJALIIPATHAK/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -328,6 +330,7 @@
 | [0143-reorder-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANJALIIPATHAK/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/ANJALIIPATHAK/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ANJALIIPATHAK/DSA/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0883-car-fleet) |
 ## Monotonic Stack
