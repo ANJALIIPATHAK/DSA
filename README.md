@@ -192,6 +192,7 @@
 | [0146-lru-cache](https://github.com/ANJALIIPATHAK/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ANJALIIPATHAK/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ANJALIIPATHAK/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0271-encode-and-decode-strings](https://github.com/ANJALIIPATHAK/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0303-range-sum-query-immutable](https://github.com/ANJALIIPATHAK/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ANJALIIPATHAK/DSA/tree/master/0304-range-sum-query-2d-immutable) |
@@ -332,6 +333,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANJALIIPATHAK/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ANJALIIPATHAK/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ANJALIIPATHAK/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/ANJALIIPATHAK/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ANJALIIPATHAK/DSA/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0883-car-fleet) |
@@ -484,6 +486,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ANJALIIPATHAK/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ANJALIIPATHAK/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ANJALIIPATHAK/DSA/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
