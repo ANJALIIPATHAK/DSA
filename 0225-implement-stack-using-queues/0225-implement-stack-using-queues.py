@@ -1,6 +1,6 @@
 class MyStack:
     def __init__(self):
-        self.stack = []
+        self.stack = deque()
 
     def push(self, x: int) -> None:
         self.stack.append(x)
