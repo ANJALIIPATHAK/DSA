@@ -6,7 +6,9 @@ class MyStack:
         self.stack.append(x)
 
     def pop(self) -> int:
-        return self.stack.pop()
+        for i in range(0, len(self.stack)-1):
+            self.push(self.stack.popleft())
+        return self.stack.popleft()
 
     def top(self) -> int:
         return self.stack[-1]
