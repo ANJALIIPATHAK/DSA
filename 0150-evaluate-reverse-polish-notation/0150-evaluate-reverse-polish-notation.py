@@ -3,24 +3,26 @@ class Solution:
         stack = []
 
         for char in tokens:
-            if(char == "+"):
-                res = stack.pop() + stack.pop()
-                stack.append(res)
-            elif(char == "-"):
+            if char == "+":
                 a = stack.pop()
                 b = stack.pop()
-                res = b - a
-                stack.append(res)
-            elif(char == "*"):
-                res = stack.pop() * stack.pop()
-                stack.append(res)
-            elif(char == "/"):
+                stack.append(a + b)
+            elif char == "-":
                 a = stack.pop()
                 b = stack.pop()
-                res = int(b/a)
-                stack.append(res)
+                stack.append(b - a)
+            elif char == "*":
+                a = stack.pop()
+                b = stack.pop()
+                stack.append(a * b)
+            elif char == "/":
+                a = stack.pop()
+                b = stack.pop()
+                stack.append(int(b / a))
             else:
                 stack.append(int(char))
-                
         return stack[0]
+
+        
+        
             
