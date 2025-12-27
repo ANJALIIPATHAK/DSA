@@ -136,6 +136,7 @@
 | [0020-valid-parentheses](https://github.com/ANJALIIPATHAK/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ANJALIIPATHAK/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ANJALIIPATHAK/DSA/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/ANJALIIPATHAK/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ANJALIIPATHAK/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ANJALIIPATHAK/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ANJALIIPATHAK/DSA/tree/master/0242-valid-anagram) |
@@ -332,6 +333,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ANJALIIPATHAK/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ANJALIIPATHAK/DSA/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/ANJALIIPATHAK/DSA/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ANJALIIPATHAK/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANJALIIPATHAK/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
