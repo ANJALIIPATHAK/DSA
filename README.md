@@ -63,6 +63,7 @@
 | [0735-asteroid-collision](https://github.com/ANJALIIPATHAK/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ANJALIIPATHAK/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ANJALIIPATHAK/DSA/tree/master/0792-binary-search) |
+| [0853-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/ANJALIIPATHAK/DSA/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/ANJALIIPATHAK/DSA/tree/master/0907-koko-eating-bananas) |
@@ -122,6 +123,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ANJALIIPATHAK/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0658-find-k-closest-elements) |
+| [0853-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/ANJALIIPATHAK/DSA/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0883-car-fleet) |
 | [0912-sort-an-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0912-sort-an-array) |
@@ -339,12 +341,14 @@
 | [0682-baseball-game](https://github.com/ANJALIIPATHAK/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ANJALIIPATHAK/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ANJALIIPATHAK/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ANJALIIPATHAK/DSA/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/ANJALIIPATHAK/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0883-car-fleet) |
 ## Sliding Window
 |  |
