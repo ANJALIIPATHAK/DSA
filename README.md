@@ -104,6 +104,7 @@
 | [0621-task-scheduler](https://github.com/ANJALIIPATHAK/DSA/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/ANJALIIPATHAK/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ANJALIIPATHAK/DSA/tree/master/0706-design-hashmap) |
+| [0895-maximum-frequency-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0895-maximum-frequency-stack) |
 | [1023-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -204,6 +205,7 @@
 | [0705-design-hashset](https://github.com/ANJALIIPATHAK/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ANJALIIPATHAK/DSA/tree/master/0706-design-hashmap) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ANJALIIPATHAK/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0895-maximum-frequency-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0895-maximum-frequency-stack) |
 | [1023-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/1023-time-based-key-value-store) |
 ## Prefix Sum
 |  |
@@ -348,6 +350,7 @@
 | [0739-daily-temperatures](https://github.com/ANJALIIPATHAK/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0883-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0895-maximum-frequency-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -504,4 +507,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ANJALIIPATHAK/DSA/tree/master/0239-sliding-window-maximum) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
