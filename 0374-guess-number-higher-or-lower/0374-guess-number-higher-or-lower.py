@@ -7,13 +7,13 @@
 
 class Solution:
     def guessNumber(self, n: int) -> int:
-        left = 1
-        right = n
-        mid = (left + right) // 2
-        while guess(mid) != 0:
-            if guess(mid) == 1:
-                left = mid + 1
-            elif guess(mid) == -1:
-                right = mid - 1
-            mid = (left + right) // 2
-        return mid
+        l, r = 1, n
+        while True:
+            m = (l + r) // 2
+            res = guess(m)
+            if res > 0:
+                l = m + 1
+            elif res < 0:
+                r = m - 1
+            else:
+                return m
