@@ -308,6 +308,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ANJALIIPATHAK/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/ANJALIIPATHAK/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ANJALIIPATHAK/DSA/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/ANJALIIPATHAK/DSA/tree/master/0792-binary-search) |
@@ -515,4 +516,8 @@
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0895-maximum-frequency-stack) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ANJALIIPATHAK/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
