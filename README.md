@@ -58,6 +58,7 @@
 | [0658-find-k-closest-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/ANJALIIPATHAK/DSA/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/ANJALIIPATHAK/DSA/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/ANJALIIPATHAK/DSA/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/ANJALIIPATHAK/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ANJALIIPATHAK/DSA/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/ANJALIIPATHAK/DSA/tree/master/0735-asteroid-collision) |
@@ -306,6 +307,7 @@
 | [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/ANJALIIPATHAK/DSA/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/ANJALIIPATHAK/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ANJALIIPATHAK/DSA/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/1023-time-based-key-value-store) |
