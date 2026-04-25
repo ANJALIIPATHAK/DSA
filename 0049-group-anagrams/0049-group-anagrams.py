@@ -3,9 +3,6 @@ class Solution:
         strMap = defaultdict(list)
 
         for word in strs:
-            charArr = [0]*26
-            for char in word:
-                charArr[ord(char) - ord("a")] += 1
-            strMap[tuple(charArr)].append(word)
-        
+            sortedWord = "".join(sorted(word))
+            strMap[sortedWord].append(word)
         return list(strMap.values())
