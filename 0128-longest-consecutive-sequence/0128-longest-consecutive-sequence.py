@@ -3,13 +3,13 @@ class Solution:
         if not nums:
             return 0
         nums.sort()
-        i = 1
+        i = 0
         maxCount = 1
         currCount = 1
-        while(i < len(nums)):
-            if nums[i] - nums[i - 1] == 0:
+        while(i < len(nums)-1):
+            if nums[i + 1] - nums[i] == 0:
                 i += 1
-            elif nums[i] - nums[i - 1] == 1:
+            elif nums[i + 1] - nums[i] == 1:
                 i += 1
                 currCount += 1
             else:
