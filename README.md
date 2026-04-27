@@ -522,4 +522,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ANJALIIPATHAK/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ANJALIIPATHAK/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
