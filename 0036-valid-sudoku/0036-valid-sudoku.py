@@ -1,26 +1,32 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        for row in board:
-            rowSet = set()
-            for num in row:
-                if num != "." and num in rowSet:
+        for row in range(0, 9):
+            seen = set()
+            for col in range(0, 9):
+                if board[row][col] == ".":
+                    continue
+                if board[row][col] in seen:
                     return False
-                rowSet.add(num)
+                seen.add(board[row][col])
         
         for col in range(0, 9):
-            colSet = set()
-            for row in range(0, len(board)):
-                if board[row][col] != "." and board[row][col] in colSet:
+            seen = set()
+            for row in range(0, 9):
+                if board[row][col] == ".":
+                    continue
+                if board[row][col] in seen:
                     return False
-                colSet.add(board[row][col])
+                seen.add(board[row][col])
 
         for square in range(0, 9):
-            squareSet = set()
+            seen = set()
             for i in range(0, 3):
                 for j in range(0, 3):
                     row = (square // 3) * 3 + i
                     col = (square % 3) * 3 + j
-                    if board[row][col] != "." and board[row][col] in squareSet:
+                    if board[row][col] == ".":
+                        continue
+                    if board[row][col] in seen:
                         return False
-                    squareSet.add(board[row][col])
+                    seen.add(board[row][col])
         return True
