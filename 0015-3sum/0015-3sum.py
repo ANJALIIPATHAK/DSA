@@ -2,6 +2,7 @@ class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         res = []
         nums = sorted(nums)
+
         for i in range(0, len(nums)):
             if(i > 0 and nums[i] == nums[i - 1]):
                 continue
@@ -22,9 +23,3 @@ class Solution:
                     while(left < right and nums[right] == nums[right + 1]):
                         right -= 1
         return res
-
-
-        
-         
-
-
