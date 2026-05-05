@@ -5,9 +5,9 @@ class Solution:
 
         if m > n:
             return False
-
-        count1 = [0] * 26
-        count2 = [0] * 26
+        
+        count1 = [0]*26
+        count2 = [0]*26
 
         for i in range(0, m):
             count1[ord(s1[i]) - ord("a")] += 1
@@ -23,4 +23,5 @@ class Solution:
                 return True
         return False
 
-            
+
+                
