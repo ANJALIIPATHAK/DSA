@@ -1,6 +1,7 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         numMap = {}
+
         for num in nums:
             numMap[num] = 1 + numMap.get(num, 0)
 
@@ -15,9 +16,3 @@ class Solution:
                 res.append(num)
                 if len(res) == k:
                     return res
-
-
-
-
-
-        
