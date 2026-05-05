@@ -3,10 +3,10 @@ class Solution:
         sMap = {}
         tMap = {}
 
-        for char in s:
-            sMap[char] = 1 + sMap.get(char, 0)
+        for i in range(0, len(s)):
+            sMap[s[i]] = 1 + sMap.get(s[i], 0)
 
-        for char in t:
-            tMap[char] = 1 + tMap.get(char, 0)
+        for i in range(0, len(t)):
+            tMap[t[i]] = 1 + tMap.get(t[i], 0)
 
         return sMap == tMap
