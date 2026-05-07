@@ -2,38 +2,37 @@ class Solution:
     def minWindow(self, s: str, t: str) -> str:
         if t == "":
             return ""
-
-        countT = {}
-        window = {}
+        
+        tMap = {}
+        windowMap = {}
 
         for char in t:
-            countT[char] = 1 + countT.get(char, 0)
+            tMap[char] = 1 + tMap.get(char, 0)
 
-        need = len(countT)
+        need = len(tMap)
         have = 0
 
-        left = 0
         res = [-1, -1]
         resLen = float("inf")
 
+        left = 0
         for right in range(0, len(s)):
-            char = s[right]
-            window[char] = 1 + window.get(char, 0)
+            windowMap[s[right]] = 1 + windowMap.get(s[right], 0)
 
-            if char in countT and window[char] == countT[char]:
+            if s[right] in tMap and tMap[s[right]] == windowMap[s[right]]:
                 have += 1
-
-            while(have == need):
-                if right - left + 1 < resLen:
+            
+            while have == need:
+                # Update res if required
+                if (right - left + 1) < resLen:
                     res = [left, right]
-                    resLen = right - left + 1
-
-                window[s[left]] -= 1
-                if s[left] in countT and window[s[left]] < countT[s[left]]:
+                    resLen = (right - left + 1)
+                #Shrink window if possible
+                windowMap[s[left]] -= 1
+                if s[left] in tMap and windowMap[s[left]] < tMap[s[left]]:
                     have -= 1
                 left += 1
-        
-        left, right = res
-        return s[left : right + 1] if resLen != float("inf") else ""
 
-         
+        left, right = res
+
+        return s[left: right + 1] if resLen != float("inf") else ""
