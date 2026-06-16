@@ -1,19 +1,18 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        res = [1] * len(nums)
-
+        prefixArr = [1] * len(nums)
         prefix = 1
         for i in range(1, len(nums)):
             prefix *= nums[i - 1]
-            res[i] = prefix
-
+            prefixArr[i] = prefix
+        
+        postfixArr = [1] * len(nums)
         postfix = 1
         for i in range(len(nums) - 2, -1, -1):
             postfix *= nums[i + 1]
-            res[i] *= postfix
+            postfixArr[i] = postfix
 
+        res = []
+        for i in range(0, len(nums)):
+            res.append(prefixArr[i] * postfixArr[i])
         return res
-
-# Synced seamlessly with LeetHub Pro
-# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-# Get it here: https://chromewebstore.google.com/detail/leethub-v4/bcilpkkbokcopmabingnndookdogmbna
