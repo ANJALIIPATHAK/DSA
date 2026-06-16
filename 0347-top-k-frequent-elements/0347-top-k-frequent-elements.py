@@ -3,7 +3,7 @@ class Solution:
         numMap = {}
         for num in nums:
             numMap[num] = 1 + numMap.get(num, 0)
-
+        
         countArr = [[] for i in range(0, len(nums) + 1)]
         for num, count in numMap.items():
             countArr[count].append(num)
