@@ -4,15 +4,15 @@ class Solution:
         nums = sorted(nums)
 
         for i in range(0, len(nums)):
-            if(i > 0 and nums[i] == nums[i - 1]):
+            if i > 0 and nums[i] == nums[i - 1]:
                 continue
             left = i + 1
             right = len(nums) - 1
             while(left < right):
                 sum = nums[i] + nums[left] + nums[right]
-                if(sum > 0):
+                if sum > 0:
                     right -= 1
-                elif(sum < 0):
+                elif sum < 0:
                     left += 1
                 else:
                     res.append([nums[i], nums[left], nums[right]])
