@@ -18,7 +18,7 @@ class Solution:
                         left = mid + 1
                     else:
                         right = mid - 1
-            
+
             elif nums[mid] < nums[left]: #We are in right sorted portion
                 if target < nums[mid]:
                     right = mid - 1
@@ -28,3 +28,7 @@ class Solution:
                     else:
                         left = mid + 1
         return res
+
+
+    
+
