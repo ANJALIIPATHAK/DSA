@@ -12,6 +12,7 @@ class Solution:
         for i in range(0, m):
             count1[ord(s1[i]) - ord("a")] += 1
             count2[ord(s2[i]) - ord("a")] += 1
+
         if count1 == count2:
             return True
         
