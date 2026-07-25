@@ -14,3 +14,4 @@ class Solution:
                 res.append(num)
                 if len(res) == k:
                     return res
+        
