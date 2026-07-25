@@ -8,7 +8,5 @@ class Solution:
                 charSet.remove(s[left])
                 left += 1
             charSet.add(s[right])
-            maxLength = max(maxLength, right - left + 1)
+            maxLength = max(maxLength, (right - left + 1))
         return maxLength
-
-                
