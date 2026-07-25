@@ -3,7 +3,6 @@ class Solution:
         maxLength = 0
         charMap = {}
         left = 0
-
         for right in range(0, len(s)):
             charMap[s[right]] = 1 + charMap.get(s[right], 0)
             while((right - left + 1) - max(charMap.values()) > k):
