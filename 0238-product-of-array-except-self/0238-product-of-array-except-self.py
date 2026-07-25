@@ -11,7 +11,7 @@ class Solution:
         for i in range(len(nums) - 2, -1, -1):
             postfix *= nums[i + 1]
             postArr[i] = postfix
-        
+
         res = []
         for i in range(0, len(nums)):
             res.append(preArr[i] * postArr[i])
