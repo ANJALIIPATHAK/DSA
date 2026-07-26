@@ -19,10 +19,10 @@ class Solution:
         right = len(finalRow) - 1
         while(left <= right):
             mid = (left + right) // 2
-            if target > finalRow[mid]:
-                left = mid + 1
+            if target == finalRow[mid]:
+                return True
+            elif target > finalRow[mid]:
+                left += 1
             elif target < finalRow[mid]:
                 right -= 1
-            else:
-                return True
         return False
