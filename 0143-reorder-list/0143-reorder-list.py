@@ -8,23 +8,24 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        # Finding the middle of the list
+        # Finding middle of the list
         slow = head
         fast = head.next
+
         while(fast and fast.next):
             slow = slow.next
             fast = fast.next.next
-        second = slow.next # This is the beginning of the second half
-        slow.next = None # Breaking the link between first and second halves
+        second = slow.next # This is the head of the second half
+        slow.next = None # Breaking the link between 2 halves
 
-        # Reversing second half
+        # Reversing the second half
         prev = None
         while(second):
             temp = second.next
             second.next = prev
             prev = second
             second = temp
-        second = prev # This is the new head of the reversed second half
+        second = prev
 
         # Merging both halves
         first = head
