@@ -14,19 +14,19 @@ class Solution:
         while(fast and fast.next):
             slow = slow.next
             fast = fast.next.next
-        second = slow.next # This is the beginnig of the second half
+        second = slow.next # This is the beginning of the second half
         slow.next = None # Breaking the link between first and second halves
 
-        #Reversing the seconf half of the list
+        # Reversing second half
         prev = None
         while(second):
             temp = second.next
             second.next = prev
             prev = second
             second = temp
-        second = prev # This is the new head of the reversed list
+        second = prev # This is the new head of the reversed second half
 
-        #Merging both halves
+        # Merging both halves
         first = head
         while(second):
             temp1 = first.next
@@ -35,9 +35,3 @@ class Solution:
             second.next = temp1
             first = temp1
             second = temp2
-            
-
-
-
-
-
