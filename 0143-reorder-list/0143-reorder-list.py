@@ -8,28 +8,26 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        #Finding Middle of List
+        # Finding the middle of the list
         slow = head
         fast = head.next
-
         while(fast and fast.next):
             slow = slow.next
             fast = fast.next.next
-        second = slow.next  # This is the beginning of the second half
-        slow.next = None    #Breaking the link between first half and second half lists
+        second = slow.next # This is the beginnig of the second half
+        slow.next = None # Breaking the link between first and second halves
 
-        #Reversing second half:
+        #Reversing the seconf half of the list
         prev = None
         while(second):
             temp = second.next
             second.next = prev
             prev = second
             second = temp
-        second = prev   #This is the new head of the reversed second half list
+        second = prev # This is the new head of the reversed list
 
-        #Merging first and second half
+        #Merging both halves
         first = head
-
         while(second):
             temp1 = first.next
             temp2 = second.next
@@ -37,6 +35,7 @@ class Solution:
             second.next = temp1
             first = temp1
             second = temp2
+            
 
 
 
