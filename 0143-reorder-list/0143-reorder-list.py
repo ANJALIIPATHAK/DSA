@@ -9,33 +9,32 @@ class Solution:
         Do not return anything, modify head in-place instead.
         """
 
-        # Finding Middle of the list
+        # Finding the middle of the list
         slow = head
-        fast = head.next
+        fast = head
 
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
-        second = slow.next # Head of the second half
-        slow.next = None # Breaking the link between both halves
+        second = slow.next # Head of second half
+        slow.next = None # Breaking link between both halves
 
         # Reverse second half
         prev = None
-        while second:
+        while(second):
             temp = second.next
             second.next = prev
             prev = second
             second = temp
-        second = prev # Head of the reversed second half
+        second = prev # New head of reversed second half
 
-        # Merging both halves:
-        first = head
-        while second:
+        # Merging both halves
+        first = head # Head of first half
+
+        while(second):
             temp1 = first.next
             temp2 = second.next
             first.next = second
             second.next = temp1
             first = temp1
             second = temp2
-
-            
