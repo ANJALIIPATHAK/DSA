@@ -9,18 +9,18 @@ class Node:
 
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        oldToCopy = {None : None}
+        oldToCopy = {None: None}
 
-        #Adding Deep Cpies of all the nodes to the corresponding original nodes in the map
+        #Adding Deep copies of all the nodes to the corresponding original nodes in the map
         curr = head
-        while(curr):
-            copy = ListNode(curr.val)
+        while curr:
+            copy = Node(curr.val)
             oldToCopy[curr] = copy
             curr = curr.next
-
+        
         #Linking the copy nodes
         curr = head
-        while(curr):
+        while curr:
             copy = oldToCopy[curr]
             copy.next = oldToCopy[curr.next]
             copy.random = oldToCopy[curr.random]
