@@ -3,23 +3,25 @@ class Node:
         self.key = key
         self.val = val
         self.next = None
-        self.right = None
+        self.prev = None
 
 class LRUCache:
-
-    def __init__(self, capacity: int):
+    def __init__(self, capacity):
         self.cap = capacity
+        # Map with key pointing to node of list
         self.cache = {}
-        # Left -> LRU
+
+        # Left -> LRU node
         self.left = Node(0, 0)
 
-        #Right -> MRU
+        # Right -> MRU node
         self.right = Node(0, 0)
 
+        #Initially, list only has left and right nodes
         self.left.next = self.right
         self.right.prev = self.left
 
-    # Remove from the list
+    #Remove any given node from list
     def remove(self, node):
         prev = node.prev
         next = node.next
@@ -27,13 +29,14 @@ class LRUCache:
         prev.next = next
         next.prev = prev
 
-    # Insert Node to the Right
+    #Insert given node from right of list
     def insert(self, node):
         prev = self.right.prev
         next = self.right
 
-        node.prev = prev
         node.next = next
+        node.prev = prev
+
         prev.next = node
         next.prev = node
 
@@ -45,17 +48,17 @@ class LRUCache:
         else:
             return -1
 
-    def put(self, key: int, value: int) -> None:
+
+    def put(self, key: int, val: int) -> None:
         if key in self.cache:
             self.remove(self.cache[key])
-        self.cache[key] = Node(key, value)
+        self.cache[key] = Node(key, val)
         self.insert(self.cache[key])
 
         if len(self.cache) > self.cap:
             lru = self.left.next
             self.remove(lru)
             del self.cache[lru.key]
-
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
