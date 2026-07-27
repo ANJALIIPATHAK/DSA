@@ -16,6 +16,6 @@ class Solution:
                 newNode.next = list2
                 list2 = list2.next
             newNode = newNode.next
-
+        
         newNode.next = list1 or list2
         return newHead.next
