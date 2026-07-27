@@ -8,20 +8,18 @@ class Node:
 class LRUCache:
     def __init__(self, capacity):
         self.cap = capacity
-        # Map with key pointing to node of list
         self.cache = {}
 
-        # Left -> LRU node
+        #Left -> LRU
         self.left = Node(0, 0)
-
-        # Right -> MRU node
+        #Right -> MRU
         self.right = Node(0, 0)
-
-        #Initially, list only has left and right nodes
+        
+        #Initially the linked list is empty (only has left and right nodes)
         self.left.next = self.right
         self.right.prev = self.left
 
-    #Remove any given node from list
+    # Remove any given node from linked list
     def remove(self, node):
         prev = node.prev
         next = node.next
@@ -29,7 +27,7 @@ class LRUCache:
         prev.next = next
         next.prev = prev
 
-    #Insert given node from right of list
+    # Insert given node from right of linked list
     def insert(self, node):
         prev = self.right.prev
         next = self.right
@@ -48,7 +46,6 @@ class LRUCache:
         else:
             return -1
 
-
     def put(self, key: int, val: int) -> None:
         if key in self.cache:
             self.remove(self.cache[key])
@@ -59,6 +56,9 @@ class LRUCache:
             lru = self.left.next
             self.remove(lru)
             del self.cache[lru.key]
+
+
+
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
