@@ -9,14 +9,13 @@ class Solution:
         left = dummyNode
         right = head
 
-        while (n > 0):
+        while(n > 0):
             right = right.next
             n -= 1
 
-        while right:
+        while(right):
             right = right.next
             left = left.next
-        
-        left.next = left.next.next
 
+        left.next = left.next.next
         return dummyNode.next
