@@ -71,6 +71,7 @@
 | [0883-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/ANJALIIPATHAK/DSA/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ANJALIIPATHAK/DSA/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/ANJALIIPATHAK/DSA/tree/master/1127-last-stone-weight) |
@@ -133,6 +134,7 @@
 | [0881-boats-to-save-people](https://github.com/ANJALIIPATHAK/DSA/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0883-car-fleet) |
 | [0912-sort-an-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## String
 |  |
@@ -166,6 +168,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -178,6 +181,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/ANJALIIPATHAK/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ANJALIIPATHAK/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ANJALIIPATHAK/DSA/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/ANJALIIPATHAK/DSA/tree/master/1127-last-stone-weight) |
@@ -199,6 +203,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Design
 |  |
@@ -253,6 +258,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANJALIIPATHAK/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
+| [0973-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
@@ -492,6 +498,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Graph
 |  |
