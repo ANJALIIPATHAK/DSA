@@ -3,7 +3,7 @@ class Solution:
         minHeap = []
 
         for x, y in points:
-            dist = abs(x*x + y*y)
+            dist = (x**2) + (y**2)
             heapq.heappush(minHeap, [dist, x, y])
 
         res = []
