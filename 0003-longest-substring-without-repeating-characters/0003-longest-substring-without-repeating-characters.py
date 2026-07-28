@@ -3,6 +3,7 @@ class Solution:
         maxLength = 0
         charSet = set()
         left = 0
+
         for right in range(0, len(s)):
             while(s[right] in charSet):
                 charSet.remove(s[left])
