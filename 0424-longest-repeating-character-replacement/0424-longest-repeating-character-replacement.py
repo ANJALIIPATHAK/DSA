@@ -2,6 +2,7 @@ class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         maxLength = 0
         charMap = {}
+        
         left = 0
         for right in range(0, len(s)):
             charMap[s[right]] = 1 + charMap.get(s[right], 0)
