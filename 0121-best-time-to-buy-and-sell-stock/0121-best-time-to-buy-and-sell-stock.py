@@ -4,6 +4,6 @@ class Solution:
         costPrice = prices[0]
         for i in range(0, len(prices)):
             sellingPrice = prices[i]
-            costPrice = min(costPrice, sellingPrice)
+            costPrice = min(sellingPrice, costPrice)
             maxProfit = max(maxProfit, sellingPrice - costPrice)
         return maxProfit
