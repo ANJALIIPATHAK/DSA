@@ -11,7 +11,7 @@ class Solution:
                 totalTime += math.ceil(pile / k)
             if totalTime <= h:
                 res = min(res, k)
-                right = k - 1
+                right = k -1
             elif totalTime > h:
                 left = k + 1
         return res
