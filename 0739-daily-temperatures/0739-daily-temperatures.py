@@ -9,4 +9,3 @@ class Solution:
                 res[stackIndex] = i - stackIndex
             stack.append([t, i])
         return res
-            
