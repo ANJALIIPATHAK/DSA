@@ -3,19 +3,19 @@ class Solution:
         stack = []
 
         for char in tokens:
-            if char == '+':
+            if char == "+":
                 a = stack.pop()
                 b = stack.pop()
                 stack.append(a + b)
-            elif char == '-':
+            elif char == "-":
                 a = stack.pop()
                 b = stack.pop()
                 stack.append(b - a)
-            elif char == '*':
+            elif char == "*":
                 a = stack.pop()
                 b = stack.pop()
                 stack.append(a * b)
-            elif char == '/':
+            elif char == "/":
                 a = stack.pop()
                 b = stack.pop()
                 stack.append(int(b / a))
