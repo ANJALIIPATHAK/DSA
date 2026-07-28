@@ -15,4 +15,5 @@ class Solution:
         res = []
         for i in range(0, len(nums)):
             res.append(preArr[i] * postArr[i])
+        
         return res
