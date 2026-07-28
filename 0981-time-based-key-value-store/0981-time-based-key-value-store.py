@@ -22,7 +22,6 @@ class TimeMap:
             elif values[mid][1] > timestamp:
                 right = mid - 1
         return res
-
             
         
 
