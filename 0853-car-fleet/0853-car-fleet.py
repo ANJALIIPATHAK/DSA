@@ -6,8 +6,6 @@ class Solution:
         for p, s in sorted(car)[::-1]:
             time = (target - p) / s
             stack.append(time)
-            if(len(stack) >= 2 and stack[-1] <= stack[-2]):
+            if len(stack) >= 2 and stack[-1] <= stack[-2]:
                 stack.pop()
         return len(stack)
-
-        
