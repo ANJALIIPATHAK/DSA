@@ -7,7 +7,7 @@ class Solution:
             mid = (left + right) // 2
             if nums[mid] == target:
                 return mid
-            if nums[mid] >= nums[left]: #We are in left sorted array
+            elif nums[mid] >= nums[left]: # We are in left sorted portion
                 if target > nums[mid]:
                     left = mid + 1
                 elif target < nums[mid]:
@@ -15,7 +15,7 @@ class Solution:
                         left = mid + 1
                     else:
                         right = mid - 1
-            elif nums[mid] < nums[left]: # We are in right sorted array
+            elif nums[mid] < nums[left]: # We are in right sorted portion
                 if target < nums[mid]:
                     right = mid - 1
                 elif target > nums[mid]:
@@ -24,4 +24,3 @@ class Solution:
                     else:
                         left = mid + 1
         return -1
-
