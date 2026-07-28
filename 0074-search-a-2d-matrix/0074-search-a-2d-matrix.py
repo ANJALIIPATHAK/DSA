@@ -5,6 +5,7 @@ class Solution:
 
         topRow = 0
         bottomRow = rows - 1
+
         while(topRow <= bottomRow):
             midRow = (topRow + bottomRow) // 2
             if target > matrix[midRow][-1]:
@@ -13,7 +14,7 @@ class Solution:
                 bottomRow = midRow - 1
             else:
                 break
-        
+
         finalRow = matrix[midRow]
         left = 0
         right = len(finalRow) - 1
@@ -22,7 +23,7 @@ class Solution:
             if target == finalRow[mid]:
                 return True
             elif target > finalRow[mid]:
-                left += 1
+                left = mid + 1
             elif target < finalRow[mid]:
-                right -= 1
+                right = mid - 1
         return False
