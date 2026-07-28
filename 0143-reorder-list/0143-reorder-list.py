@@ -16,10 +16,11 @@ class Solution:
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
+        
         second = slow.next # Head of second half
-        slow.next = None # Breaking link between both halves
+        slow.next = None # Break link between 2 halves
 
-        # Reverse second half
+        # Reversing second half
         prev = None
         while(second):
             temp = second.next
@@ -38,3 +39,6 @@ class Solution:
             second.next = temp1
             first = temp1
             second = temp2
+
+            
+        
