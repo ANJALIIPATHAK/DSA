@@ -12,7 +12,6 @@ class Solution:
             res = min(res, nums[mid])
             if nums[mid] >= nums[left]: # We are in left sorted portion
                 left = mid + 1
-            elif nums[mid] < nums[left]: # We are in the right sorted portion
+            elif nums[mid] < nums[left]: # We are in right sorted portion
                 right = mid - 1
         return res
-
