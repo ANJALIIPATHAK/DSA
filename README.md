@@ -109,6 +109,7 @@
 | [0621-task-scheduler](https://github.com/ANJALIIPATHAK/DSA/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/ANJALIIPATHAK/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ANJALIIPATHAK/DSA/tree/master/0706-design-hashmap) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0895-maximum-frequency-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/0981-time-based-key-value-store) |
 | [1023-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/1023-time-based-key-value-store) |
@@ -433,6 +434,7 @@
 | [0572-subtree-of-another-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ANJALIIPATHAK/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ANJALIIPATHAK/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -452,6 +454,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/ANJALIIPATHAK/DSA/tree/master/0695-max-area-of-island) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -472,6 +475,7 @@
 | [0572-subtree-of-another-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ANJALIIPATHAK/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ANJALIIPATHAK/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -484,6 +488,7 @@
 | [0200-number-of-islands](https://github.com/ANJALIIPATHAK/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ANJALIIPATHAK/DSA/tree/master/0695-max-area-of-island) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
