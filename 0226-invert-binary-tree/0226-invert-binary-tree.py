@@ -10,10 +10,9 @@ class Solution:
         def dfs(node):
             if not node:
                 return
-            if node.left or node.right:
-                node.left, node.right = node.right, node.left
+            node.left, node.right = node.right, node.left
             dfs(node.left)
             dfs(node.right)
-
+        
         dfs(root)
         return root
