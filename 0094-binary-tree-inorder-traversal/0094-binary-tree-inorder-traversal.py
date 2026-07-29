@@ -14,6 +14,6 @@ class Solution:
             dfs(node.left)
             res.append(node.val)
             dfs(node.right)
-        
+
         dfs(root)
         return res
