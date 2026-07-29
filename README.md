@@ -364,6 +364,7 @@
 | [0071-simplify-path](https://github.com/ANJALIIPATHAK/DSA/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ANJALIIPATHAK/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ANJALIIPATHAK/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANJALIIPATHAK/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ANJALIIPATHAK/DSA/tree/master/0225-implement-stack-using-queues) |
@@ -426,6 +427,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ANJALIIPATHAK/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ANJALIIPATHAK/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ANJALIIPATHAK/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANJALIIPATHAK/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -446,6 +448,7 @@
 | [0110-balanced-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0113-path-sum-ii) |
 | [0133-clone-graph](https://github.com/ANJALIIPATHAK/DSA/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ANJALIIPATHAK/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ANJALIIPATHAK/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ANJALIIPATHAK/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0226-invert-binary-tree) |
@@ -467,6 +470,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ANJALIIPATHAK/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ANJALIIPATHAK/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ANJALIIPATHAK/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANJALIIPATHAK/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
