@@ -3,18 +3,15 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        low = 0
-        mid = 0
-        high = len(nums)-1
 
-        for i in range(0, len(nums)):
-            if(nums[mid] == 0):
-                nums[mid], nums[low] = nums[low], nums[mid]
-                low += 1
-                mid += 1
-            elif(nums[mid] == 1):
-                mid += 1
-            elif(nums[mid] == 2):
-                nums[mid], nums[high] = nums[high], nums[mid]
-                high -= 1
+        countArr = [0] * 3
+        for num in nums:
+            countArr[num] += 1
+
+        write = 0
+        for color in range(3):
+            while(countArr[color] > 0):
+                nums[write] = color
+                write += 1
+                countArr[color] -= 1
         
