@@ -1,6 +1,6 @@
 class Solution:
     def leastBricks(self, wall: List[List[int]]) -> int:
-        countGap = {0 : 0}  #Maps position : number of gaps at that position
+        countGap = {0 : 0} #Maps position : number of gaps at that position
 
         for row in wall:
             total = 0
