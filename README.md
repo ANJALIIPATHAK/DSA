@@ -117,6 +117,7 @@
 | [0621-task-scheduler](https://github.com/ANJALIIPATHAK/DSA/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/ANJALIIPATHAK/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ANJALIIPATHAK/DSA/tree/master/0706-design-hashmap) |
+| [0791-custom-sort-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0791-custom-sort-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0895-maximum-frequency-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/0981-time-based-key-value-store) |
@@ -141,6 +142,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0621-task-scheduler](https://github.com/ANJALIIPATHAK/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0658-find-k-closest-elements) |
+| [0791-custom-sort-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0791-custom-sort-string) |
 | [0853-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/ANJALIIPATHAK/DSA/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0883-car-fleet) |
@@ -167,6 +169,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ANJALIIPATHAK/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0791-custom-sort-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0791-custom-sort-string) |
 | [0981-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/0981-time-based-key-value-store) |
 | [1023-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/1023-time-based-key-value-store) |
 | [1768-merge-strings-alternately](https://github.com/ANJALIIPATHAK/DSA/tree/master/1768-merge-strings-alternately) |
