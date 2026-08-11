@@ -81,6 +81,7 @@
 | [1929-concatenation-of-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ANJALIIPATHAK/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/ANJALIIPATHAK/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 | [0981-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/0981-time-based-key-value-store) |
 | [1023-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/1023-time-based-key-value-store) |
 | [1768-merge-strings-alternately](https://github.com/ANJALIIPATHAK/DSA/tree/master/1768-merge-strings-alternately) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/ANJALIIPATHAK/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ANJALIIPATHAK/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ANJALIIPATHAK/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ANJALIIPATHAK/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/ANJALIIPATHAK/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Matrix
 |  |
 | ------- |
