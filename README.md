@@ -84,6 +84,7 @@
 | [2058-concatenation-of-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ANJALIIPATHAK/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/ANJALIIPATHAK/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/ANJALIIPATHAK/DSA/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0895-maximum-frequency-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/0981-time-based-key-value-store) |
 | [1023-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/1023-time-based-key-value-store) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/ANJALIIPATHAK/DSA/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [0912-sort-an-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/1014-k-closest-points-to-origin) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/ANJALIIPATHAK/DSA/tree/master/2780-minimum-index-of-a-valid-split) |
 ## String
 |  |
 | ------- |
