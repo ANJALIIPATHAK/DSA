@@ -21,7 +21,7 @@ class Solution:
                 rightCount -= 1
             leftLength = i + 1
             rightLength = len(nums) - 1 - i
-            
+
             if 2 * leftCount > leftLength and 2 * rightCount > rightLength:
                 return i
         return -1
