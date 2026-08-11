@@ -167,6 +167,7 @@
 | [0344-reverse-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ANJALIIPATHAK/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/ANJALIIPATHAK/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0791-custom-sort-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0791-custom-sort-string) |
@@ -300,6 +301,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/ANJALIIPATHAK/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0680-valid-palindrome-ii) |
