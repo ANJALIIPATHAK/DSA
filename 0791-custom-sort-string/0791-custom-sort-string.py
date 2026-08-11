@@ -15,8 +15,7 @@ class Solution:
                 res += count * char
                 del sMap[char]
         
-        for char in sMap:
-            count = sMap[char]
+        for char, count in sMap.items():
             res += count * char
 
         return res
