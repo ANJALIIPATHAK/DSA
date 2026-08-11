@@ -16,5 +16,4 @@ class Solution:
                 res.append(countArr[qRight])
             else:
                 res.append(countArr[qRight] - countArr[qLeft - 1])
-
         return res
