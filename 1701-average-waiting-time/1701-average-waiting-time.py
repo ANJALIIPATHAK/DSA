@@ -4,10 +4,7 @@ class Solution:
         totalWaitTime = 0
 
         for arrivalTime, prepTime in customers:
-            if arrivalTime < startTime:
-                endTime = startTime + prepTime
-            else:
-                endTime = arrivalTime + prepTime
+            endTime = max(startTime, arrivalTime) + prepTime
             waitTime = endTime - arrivalTime
             totalWaitTime += waitTime
             startTime = endTime
