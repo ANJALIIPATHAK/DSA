@@ -4,7 +4,9 @@ class Solution:
         for char in order:
             orderArr.append(char)
         
-        sMap = Counter(s)
+        sMap = {}
+        for char in s:
+            sMap[char] = 1 + sMap.get(char, 0)
 
         res = ""
         for char in orderArr:
