@@ -3,20 +3,20 @@ class Solution:
         orderArr = []
         for char in order:
             orderArr.append(char)
-        
+
         sMap = {}
         for char in s:
             sMap[char] = 1 + sMap.get(char, 0)
 
         res = ""
-        for char in orderArr:
+        for char in order:
             if char in sMap:
                 count = sMap[char]
-                res += char * count
+                res += count * char
                 del sMap[char]
-
-        for char, count in sMap.items():
-            res += char * count
         
-        return res
+        for char in sMap:
+            count = sMap[char]
+            res += count * char
 
+        return res
