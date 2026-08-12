@@ -3,11 +3,11 @@ class Solution:
         left = 0
         target = 0
 
-        while(left < len(chars)):
+        while left < len(chars):
             chars[target] = chars[left]
             target += 1
             right = left + 1
-            while(right < len(chars) and chars[left] == chars[right]):
+            while right < len(chars) and chars[left] == chars[right]:
                 right += 1
             if right - left > 1:
                 groupLength = str(right - left)
@@ -16,4 +16,3 @@ class Solution:
                     target += 1
             left = right
         return target
-            
