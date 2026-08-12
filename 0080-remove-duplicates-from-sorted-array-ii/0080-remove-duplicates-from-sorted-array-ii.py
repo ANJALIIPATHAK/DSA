@@ -3,9 +3,9 @@ class Solution:
         left = 0
         right = 0
 
-        while right < len(nums):
+        while(right < len(nums)):
             count = 1
-            while right + 1 < len(nums) and nums[right] == nums[right + 1]:
+            while(right + 1 < len(nums) and nums[right] == nums[right + 1]):
                 count += 1
                 right += 1
             for i in range(min(2, count)):
@@ -13,4 +13,3 @@ class Solution:
                 left += 1
             right += 1
         return left
-            
