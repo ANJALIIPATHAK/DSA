@@ -16,3 +16,4 @@ class Solution:
                     target += 1
             left = right
         return target
+            
