@@ -82,6 +82,7 @@
 | [1127-last-stone-weight](https://github.com/ANJALIIPATHAK/DSA/tree/master/1127-last-stone-weight) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ANJALIIPATHAK/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1701-average-waiting-time](https://github.com/ANJALIIPATHAK/DSA/tree/master/1701-average-waiting-time) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ANJALIIPATHAK/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/2058-concatenation-of-array) |
@@ -153,6 +154,7 @@
 | [0912-sort-an-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/1014-k-closest-points-to-origin) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ANJALIIPATHAK/DSA/tree/master/2780-minimum-index-of-a-valid-split) |
 ## String
 |  |
@@ -251,6 +253,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ANJALIIPATHAK/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ANJALIIPATHAK/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ANJALIIPATHAK/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/ANJALIIPATHAK/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Matrix
 |  |
@@ -359,6 +362,7 @@
 | [0907-koko-eating-bananas](https://github.com/ANJALIIPATHAK/DSA/tree/master/0907-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/0981-time-based-key-value-store) |
 | [1023-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/1023-time-based-key-value-store) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -384,6 +388,7 @@
 | [0621-task-scheduler](https://github.com/ANJALIIPATHAK/DSA/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/ANJALIIPATHAK/DSA/tree/master/0881-boats-to-save-people) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
 | ------- |
@@ -426,6 +431,7 @@
 | [0658-find-k-closest-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0658-find-k-closest-elements) |
 | [1052-grumpy-bookstore-owner](https://github.com/ANJALIIPATHAK/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ANJALIIPATHAK/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
 |  |
 | ------- |
