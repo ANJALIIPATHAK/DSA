@@ -73,6 +73,7 @@
 | [0875-koko-eating-bananas](https://github.com/ANJALIIPATHAK/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/ANJALIIPATHAK/DSA/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0883-car-fleet) |
+| [0904-fruit-into-baskets](https://github.com/ANJALIIPATHAK/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/ANJALIIPATHAK/DSA/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -125,6 +126,7 @@
 | [0791-custom-sort-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0791-custom-sort-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ANJALIIPATHAK/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0895-maximum-frequency-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0895-maximum-frequency-stack) |
+| [0904-fruit-into-baskets](https://github.com/ANJALIIPATHAK/DSA/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/0981-time-based-key-value-store) |
 | [1023-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/1023-time-based-key-value-store) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ANJALIIPATHAK/DSA/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -429,6 +431,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ANJALIIPATHAK/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/ANJALIIPATHAK/DSA/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/ANJALIIPATHAK/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ANJALIIPATHAK/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
