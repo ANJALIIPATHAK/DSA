@@ -78,6 +78,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ANJALIIPATHAK/DSA/tree/master/1046-last-stone-weight) |
+| [1052-grumpy-bookstore-owner](https://github.com/ANJALIIPATHAK/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1127-last-stone-weight](https://github.com/ANJALIIPATHAK/DSA/tree/master/1127-last-stone-weight) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ANJALIIPATHAK/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1701-average-waiting-time](https://github.com/ANJALIIPATHAK/DSA/tree/master/1701-average-waiting-time) |
@@ -423,6 +424,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ANJALIIPATHAK/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0658-find-k-closest-elements) |
+| [1052-grumpy-bookstore-owner](https://github.com/ANJALIIPATHAK/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ANJALIIPATHAK/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Backtracking
 |  |
