@@ -1,30 +1,21 @@
 class Solution:
     def maxSatisfied(self, customers: List[int], grumpy: List[int], minutes: int) -> int:
-        
-        satisfaction = [[customer, grumpy] for customer, grumpy in zip(customers, grumpy)]
+        left = 0
+        satisfied = 0
+        window = 0
+        maxWindow = 0
 
-        satisfiedCustomers = 0
-
-        for customer, grumpy in satisfaction:
-            if grumpy == 0:
-                satisfiedCustomers += customer
+        for right in range(0, len(customers)):
+            if grumpy[right]:
+                window += customers[right]
             else:
-                continue
-        
-        windowSum = 0
-        for i in range(0, minutes - 1):
-            if satisfaction[i][1] == 1:
-                windowSum += satisfaction[i][0]
+                satisfied += customers[right]
+            if right - left + 1 > minutes:
+                if grumpy[left]:
+                    window -= customers[left]
+                left += 1
+            maxWindow = max(maxWindow, window)
+        return satisfied + maxWindow
 
-        maxSatisfiedCustomers = 0
-            
-        for left in range(0, len(satisfaction) - minutes + 1):
-            right = left + minutes - 1
-            if satisfaction[right][1] == 1:
-                windowSum += satisfaction[right][0]
-            maxSatisfiedCustomers = max(maxSatisfiedCustomers, satisfiedCustomers + windowSum)
-            if satisfaction[left][1] == 1:
-                windowSum -= satisfaction[left][0]
-        return maxSatisfiedCustomers
             
 
