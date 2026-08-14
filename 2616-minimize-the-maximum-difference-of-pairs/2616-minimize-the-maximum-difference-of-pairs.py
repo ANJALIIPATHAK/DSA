@@ -1,7 +1,5 @@
 class Solution:
     def minimizeMax(self, nums: List[int], p: int) -> int:
-        if p == 0:
-            return 0
 
         nums = sorted(nums)
 
