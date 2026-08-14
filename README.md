@@ -57,6 +57,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/ANJALIIPATHAK/DSA/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/ANJALIIPATHAK/DSA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/ANJALIIPATHAK/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ANJALIIPATHAK/DSA/tree/master/0621-task-scheduler) |
@@ -360,6 +361,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/ANJALIIPATHAK/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ANJALIIPATHAK/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ANJALIIPATHAK/DSA/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/ANJALIIPATHAK/DSA/tree/master/0792-binary-search) |
