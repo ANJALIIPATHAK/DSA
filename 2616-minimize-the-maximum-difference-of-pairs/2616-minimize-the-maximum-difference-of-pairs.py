@@ -11,9 +11,9 @@ class Solution:
 
         while left <= right:
             mid = (left + right) // 2
-            i = 0
             pairs = p
-            while pairs > 0 and i < len(nums)-1:
+            i = 0
+            while pairs > 0 and i < len(nums) - 1:
                 if nums[i + 1] - nums[i] <= mid:
                     pairs -= 1
                     i += 2
@@ -25,4 +25,3 @@ class Solution:
             else:
                 left = mid + 1
         return res
-                
