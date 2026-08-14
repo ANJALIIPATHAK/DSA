@@ -94,6 +94,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANJALIIPATHAK/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ANJALIIPATHAK/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/ANJALIIPATHAK/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ANJALIIPATHAK/DSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ANJALIIPATHAK/DSA/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Hash Table
 |  |
@@ -162,6 +163,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ANJALIIPATHAK/DSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ANJALIIPATHAK/DSA/tree/master/2780-minimum-index-of-a-valid-split) |
 ## String
 |  |
@@ -335,6 +337,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANJALIIPATHAK/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/1013-fibonacci-number) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ANJALIIPATHAK/DSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -374,6 +377,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ANJALIIPATHAK/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1023-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/1023-time-based-key-value-store) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ANJALIIPATHAK/DSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -400,6 +404,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/ANJALIIPATHAK/DSA/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ANJALIIPATHAK/DSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Stack
 |  |
 | ------- |
