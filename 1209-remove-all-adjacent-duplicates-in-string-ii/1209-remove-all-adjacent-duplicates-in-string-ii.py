@@ -4,15 +4,13 @@ class Solution:
 
         for char in s:
             if stack and stack[-1][0] == char:
-                count = stack[-1][1] + 1
+                stack[-1][1] += 1
             else:
-                count = 1
-            stack.append([char, count])
+                stack.append([char, 1])
             if stack and stack[-1][1] == k:
-                for _ in range(k):
-                    stack.pop()
+                stack.pop()
         
         res = ""
         for char, count in stack:
-            res += char
+            res += char * count
         return res
