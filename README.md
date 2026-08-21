@@ -178,6 +178,7 @@
 | [0071-simplify-path](https://github.com/ANJALIIPATHAK/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ANJALIIPATHAK/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ANJALIIPATHAK/DSA/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/ANJALIIPATHAK/DSA/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/ANJALIIPATHAK/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0299-bulls-and-cows](https://github.com/ANJALIIPATHAK/DSA/tree/master/0299-bulls-and-cows) |
@@ -296,6 +297,7 @@
 | [0069-sqrtx](https://github.com/ANJALIIPATHAK/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANJALIIPATHAK/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/ANJALIIPATHAK/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/1013-fibonacci-number) |
@@ -423,6 +425,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANJALIIPATHAK/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ANJALIIPATHAK/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/ANJALIIPATHAK/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0394-decode-string) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ANJALIIPATHAK/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
