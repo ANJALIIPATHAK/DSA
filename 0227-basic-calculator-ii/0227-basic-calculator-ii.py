@@ -14,9 +14,11 @@ class Solution:
                 elif operator == "-":
                     stack.append(-num)
                 elif operator == "*":
-                    stack.append(stack.pop() * num)
+                    prev = stack.pop()
+                    stack.append(prev * num)
                 else:
-                    stack.append(int(stack.pop() / num))
+                    prev = stack.pop()
+                    stack.append(int(prev / num))
                 num = 0
                 operator = char
         return sum(stack)
