@@ -87,6 +87,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/ANJALIIPATHAK/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1127-last-stone-weight](https://github.com/ANJALIIPATHAK/DSA/tree/master/1127-last-stone-weight) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ANJALIIPATHAK/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1598-crawler-log-folder](https://github.com/ANJALIIPATHAK/DSA/tree/master/1598-crawler-log-folder) |
 | [1701-average-waiting-time](https://github.com/ANJALIIPATHAK/DSA/tree/master/1701-average-waiting-time) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ANJALIIPATHAK/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -189,6 +190,7 @@
 | [0791-custom-sort-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0791-custom-sort-string) |
 | [0981-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/0981-time-based-key-value-store) |
 | [1023-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/1023-time-based-key-value-store) |
+| [1598-crawler-log-folder](https://github.com/ANJALIIPATHAK/DSA/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/ANJALIIPATHAK/DSA/tree/master/1768-merge-strings-alternately) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/ANJALIIPATHAK/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Divide and Conquer
@@ -429,6 +431,7 @@
 | [0853-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0883-car-fleet) |
 | [0895-maximum-frequency-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0895-maximum-frequency-stack) |
+| [1598-crawler-log-folder](https://github.com/ANJALIIPATHAK/DSA/tree/master/1598-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
