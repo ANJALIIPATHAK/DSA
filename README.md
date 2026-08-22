@@ -321,6 +321,7 @@
 | [0143-reorder-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANJALIIPATHAK/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ANJALIIPATHAK/DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ANJALIIPATHAK/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0344-reverse-string) |
@@ -351,6 +352,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ANJALIIPATHAK/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/ANJALIIPATHAK/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -427,6 +429,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ANJALIIPATHAK/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/ANJALIIPATHAK/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ANJALIIPATHAK/DSA/tree/master/0394-decode-string) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ANJALIIPATHAK/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/ANJALIIPATHAK/DSA/tree/master/0682-baseball-game) |
@@ -477,6 +480,7 @@
 | [0143-reorder-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/ANJALIIPATHAK/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/ANJALIIPATHAK/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ANJALIIPATHAK/DSA/tree/master/0706-design-hashmap) |
 ## Doubly-Linked List
