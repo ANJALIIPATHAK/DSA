@@ -256,6 +256,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/ANJALIIPATHAK/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/ANJALIIPATHAK/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ANJALIIPATHAK/DSA/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0707-design-linked-list) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ANJALIIPATHAK/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0895-maximum-frequency-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/0981-time-based-key-value-store) |
@@ -491,6 +492,7 @@
 | [0234-palindrome-linked-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/ANJALIIPATHAK/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ANJALIIPATHAK/DSA/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
