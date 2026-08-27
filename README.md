@@ -87,6 +87,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/ANJALIIPATHAK/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1127-last-stone-weight](https://github.com/ANJALIIPATHAK/DSA/tree/master/1127-last-stone-weight) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ANJALIIPATHAK/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1472-design-browser-history](https://github.com/ANJALIIPATHAK/DSA/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/ANJALIIPATHAK/DSA/tree/master/1598-crawler-log-folder) |
 | [1701-average-waiting-time](https://github.com/ANJALIIPATHAK/DSA/tree/master/1701-average-waiting-time) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ANJALIIPATHAK/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -261,6 +262,7 @@
 | [0895-maximum-frequency-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/0981-time-based-key-value-store) |
 | [1023-time-based-key-value-store](https://github.com/ANJALIIPATHAK/DSA/tree/master/1023-time-based-key-value-store) |
+| [1472-design-browser-history](https://github.com/ANJALIIPATHAK/DSA/tree/master/1472-design-browser-history) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -445,6 +447,7 @@
 | [0883-car-fleet](https://github.com/ANJALIIPATHAK/DSA/tree/master/0883-car-fleet) |
 | [0895-maximum-frequency-stack](https://github.com/ANJALIIPATHAK/DSA/tree/master/0895-maximum-frequency-stack) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ANJALIIPATHAK/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1472-design-browser-history](https://github.com/ANJALIIPATHAK/DSA/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/ANJALIIPATHAK/DSA/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
@@ -494,11 +497,13 @@
 | [0706-design-hashmap](https://github.com/ANJALIIPATHAK/DSA/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/ANJALIIPATHAK/DSA/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ANJALIIPATHAK/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ANJALIIPATHAK/DSA/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/ANJALIIPATHAK/DSA/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
 | ------- |
@@ -614,6 +619,7 @@
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ANJALIIPATHAK/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ANJALIIPATHAK/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1472-design-browser-history](https://github.com/ANJALIIPATHAK/DSA/tree/master/1472-design-browser-history) |
 ## Trie
 |  |
 | ------- |
